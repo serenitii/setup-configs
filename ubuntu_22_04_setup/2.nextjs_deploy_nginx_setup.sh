@@ -19,7 +19,7 @@ curl -4 icanhazip.com
 
 # install Node(LTS), yarn, pm2
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-exec $SHELL
+#exec $SHELL
 nvm install --lts
 
 npm install -g yarn

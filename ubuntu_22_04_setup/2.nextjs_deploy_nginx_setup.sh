@@ -1,5 +1,5 @@
 # Set user to root
-sudo su
+#sudo su
 
 # Korean time
 date
